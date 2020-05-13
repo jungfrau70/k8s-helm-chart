@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   binderhub:
   - apiVersion: v1
-    created: "2020-05-13T22:40:31.440985348+09:00"
+    created: "2020-05-13T23:16:36.293037783+09:00"
     description: A helm chart to install Binder
-    digest: 4cee166881fefe2742ba8eefbf2ed7333d09eecea34cf93271f653dae121ce6d
+    digest: 42659f2b39a09ec73ffd5b6dd44189dd4bfe91419e20a7b0b6d73409d9a9eb46
     name: binderhub
     urls:
     - https://jupyteronline.github.io/helm-chart/binderhub-0.2.0.tgz
@@ -12,9 +12,9 @@ entries:
   elasticsearch:
   - apiVersion: v1
     appVersion: 7.6.2
-    created: "2020-05-13T22:40:31.443369369+09:00"
+    created: "2020-05-13T23:16:36.29520219+09:00"
     description: Official Elastic helm chart for Elasticsearch
-    digest: 1e8e7b84af7e008d24885dd80d350005106905bcdcef7fb1ba01c46ee6f43b3c
+    digest: c5dd95004edfe8b6c94bcf88cd74732c0bf80be56717e48594a63ebb7145ab77
     home: https://github.com/elastic/helm-charts
     icon: https://helm.elastic.co/icons/elasticsearch.png
     maintainers:
@@ -29,11 +29,11 @@ entries:
   hadoop:
   - apiVersion: v1
     appVersion: 2.9.0
-    created: "2020-05-13T22:40:31.444397394+09:00"
+    created: "2020-05-13T23:16:36.296251976+09:00"
     description: The Apache Hadoop software library is a framework that allows for
       the distributed processing of large data sets across clusters of computers using
       simple programming models.
-    digest: aa8e3b0cf68436f3933623f02cf03c3776b62c002787c9ac09216b9d20578532
+    digest: 00c798ccd7a23f3ea4d84dfd9a6ac35e51a9558bc8876c88e3813bbcd231a4c6
     home: https://hadoop.apache.org/
     icon: http://hadoop.apache.org/images/hadoop-logo.jpg
     maintainers:
@@ -48,9 +48,9 @@ entries:
   istio:
   - apiVersion: v1
     appVersion: 1.5.2
-    created: "2020-05-13T22:40:31.454870992+09:00"
+    created: "2020-05-13T23:16:36.306519154+09:00"
     description: Helm chart for all istio components
-    digest: fa5a4c3e157c984541bcabbbe6b6620263b579ff79a586565234cede49a14820
+    digest: 42d079c26bbd87e256579f3d250e44bdbf5fef7f2686def4c392d1aa0256bd15
     engine: gotpl
     icon: https://istio.io/favicons/android-192x192.png
     keywords:
@@ -70,9 +70,9 @@ entries:
   patroni:
   - apiVersion: v1
     appVersion: 1.4-p7
-    created: "2020-05-13T22:40:31.457367329+09:00"
+    created: "2020-05-13T23:16:36.308574441+09:00"
     description: 'Highly available elephant herd: HA PostgreSQL cluster.'
-    digest: 63cbba13eebe2008c4ffbc4f1d79d0965af6b4a86ddaa01a4e5f4e4cf2aaed15
+    digest: 7c98615203857ae4c14076e0c5023846ab819d99a64a35a4bcd31b2fecc130f4
     home: https://github.com/zalando/patroni
     maintainers:
     - email: team-acid@zalando.de
@@ -89,9 +89,9 @@ entries:
   pgadmin:
   - apiVersion: v1
     appVersion: 4.13.0
-    created: "2020-05-13T22:40:31.459245319+09:00"
+    created: "2020-05-13T23:16:36.309784445+09:00"
     description: pgAdmin is a web based administration tool for the PostgreSQL database.
-    digest: 049b214fe29f26e070dc2bc4ad18542792b725f5dbdc351d5a81a232c3ac9490
+    digest: dd62f5200ae58fb1cbf56467d0a742167f440ea5427ba5d464b2fa08f9dc359d
     home: https://www.pgadmin.org/
     icon: https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png
     keywords:
@@ -108,9 +108,9 @@ entries:
   presto:
   - apiVersion: v1
     appVersion: "0.196"
-    created: "2020-05-13T22:40:31.459837591+09:00"
+    created: "2020-05-13T23:16:36.310307393+09:00"
     description: Distributed SQL query engine for running interactive analytic queries
-    digest: 0c557d45d986c49c0a79600ecbea63923b1f3a0e749311ecb8cbebe453b79089
+    digest: 4a0e2284836ff99744a42823ec86d5e272158923631fd3a089d0384ee61cc0f7
     home: https://prestodb.io
     icon: https://prestodb.io/static/presto.png
     maintainers:
@@ -122,4 +122,4 @@ entries:
     urls:
     - https://jupyteronline.github.io/helm-chart/presto-0.1.1.tgz
     version: 0.1.1
-generated: "2020-05-13T22:40:31.437477156+09:00"
+generated: "2020-05-13T23:16:36.28938904+09:00"
